@@ -1,0 +1,1 @@
+# jmaqs-appium-archetype
